@@ -11,6 +11,12 @@ h2.innerText = "Diego Villatoro";
 navBarVid.appendChild(h2);
 
 
+
+
+
+
+
 export {navBarVid}
+
 
 
