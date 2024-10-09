@@ -3,3 +3,27 @@
     
 }
 
+.div-item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+    border-bottom: 1px solid rgb(223, 223, 223);
+    padding: 1rem;
+}
+
+.link-github-page{
+    text-decoration: none;
+}
+
+.btn-github{
+    width: 100%;
+    max-width: 15rem;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 3px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
